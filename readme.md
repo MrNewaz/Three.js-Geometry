@@ -1,4 +1,4 @@
-# Live Preview: [Live Preview](https://newaz-geometry.netlify.app/).
+# [Live Preview](https://newaz-geometry.netlify.app/).
 
 Run this followed commands:
 
